@@ -1,0 +1,121 @@
+MenuItemID,Category,ItemName,Cost,UnitPrice,IsActive
+M101,Appetizer,Garlic Bread,2.35,4.93,Yes
+M102,Appetizer,Fried Calamari,2.76,5.23,Yes
+M103,Appetizer,Bruschetta,2.47,4.66,Yes
+M104,Appetizer,Nachos,2.53,5.16,Yes
+M105,Appetizer,Mozzarella Sticks,1.47,3.45,Yes
+M106,Appetizer,Chicken Wings,2.6,4.42,Yes
+M107,Appetizer,Quesadilla,2.51,4.29,Yes
+M108,Appetizer,Edamame,2.15,4.05,Yes
+M109,Appetizer,Spring Rolls,1.73,4.49,Yes
+M110,Appetizer,Hummus Platter,2.21,5.53,Yes
+M111,Entrée,BBQ Burger,3.93,13.44,Yes
+M112,Entrée,Grilled Salmon,4.78,12.49,Yes
+M113,Entrée,Chicken Alfredo,7.47,13.99,Yes
+M114,Entrée,Steak Frites,5.02,15.86,Yes
+M115,Entrée,Vegan Bowl,7.66,18.63,Yes
+M116,Entrée,Margherita Pizza,4.66,15.19,Yes
+M117,Entrée,Shrimp Tacos,4.68,12.09,Yes
+M118,Entrée,Beef Ramen,6.36,17.74,No
+M119,Entrée,Pork Chop,4.91,11.33,Yes
+M120,Entrée,Lamb Kebab,8.76,14.98,Yes
+M121,Dessert,Cheesecake,2.34,6.09,No
+M122,Dessert,Chocolate Lava Cake,3.44,7.28,Yes
+M123,Dessert,Tiramisu,2.53,4.23,Yes
+M124,Dessert,Apple Pie,3.54,6.81,Yes
+M125,Dessert,Ice Cream Sundae,2.76,5.44,Yes
+M126,Dessert,Crème Brûlée,1.56,4.57,Yes
+M127,Dessert,Brownie,2.87,4.93,Yes
+M128,Dessert,Panna Cotta,2.16,5.06,Yes
+M129,Dessert,Banana Split,3.39,7.82,Yes
+M130,Dessert,Mango Sticky Rice,3.46,5.84,Yes
+M131,Beverage,Iced Latte,1.01,3.78,Yes
+M132,Beverage,Cappuccino,1.09,2.42,Yes
+M133,Beverage,Americano,1.17,3.23,Yes
+M134,Beverage,Green Tea,1.39,3.36,Yes
+M135,Beverage,Black Tea,1.06,3.49,Yes
+M136,Beverage,Craft Soda,0.86,2.32,Yes
+M137,Beverage,Lemonade,1.34,4.37,Yes
+M138,Beverage,Orange Juice,1.43,4.26,Yes
+M139,Beverage,IPA Beer,0.5,2.64,Yes
+M140,Beverage,House Wine,1.39,4.06,Yes
+M141,Sides,Fries,1.42,4.2,Yes
+M142,Sides,Sweet Potato Fries,1.28,3.4,Yes
+M143,Sides,Side Salad,1.77,3.62,Yes
+M144,Sides,Mashed Potatoes,1.52,3.79,Yes
+M145,Sides,Coleslaw,0.92,2.34,Yes
+M146,Sides,Rice Pilaf,1.59,2.95,Yes
+M147,Sides,Steamed Veggies,1.27,3.49,No
+M148,Sides,Mac & Cheese,1.18,2.96,Yes
+M149,Sides,Onion Rings,2.05,3.08,Yes
+M150,Sides,Cornbread,0.9,3.21,Yes
+M151,Kids,Kids Burger,2.29,4.11,Yes
+M152,Kids,Chicken Nuggets,2.24,4.32,Yes
+M153,Kids,Mini Pizza,2.41,5.96,Yes
+M154,Kids,Mac & Cheese Kids,0.87,3.73,Yes
+M155,Kids,Grilled Cheese,1.54,3.82,No
+M156,Kids,Pasta Butter,1.49,5.51,Yes
+M157,Kids,Fish Sticks,2.27,4.14,Yes
+M158,Kids,Mini Tacos,2.47,5.26,Yes
+M159,Kids,PB&J,2.32,5.56,Yes
+M160,Kids,Kids Salad,2.68,5.96,Yes
+M161,Entrée,Grilled Salmon (Spicy),4.54,11.9,Yes
+M162,Beverage,Green Tea (Large),1.53,4.21,Yes
+M163,Entrée,Chicken Alfredo (XL),5.44,17.16,Yes
+M164,Dessert,Crème Brûlée (Vegan),3.54,7.59,Yes
+M165,Beverage,Orange Juice (Gluten-Free),1.04,2.51,Yes
+M166,Entrée,Beef Ramen (Large),7.43,14.68,Yes
+M167,Beverage,Americano (Spicy),1.32,4.22,Yes
+M168,Beverage,Iced Latte (XL),0.5,2.85,Yes
+M169,Sides,Cornbread (Low Sugar),2.14,3.18,Yes
+M170,Beverage,IPA Beer (Spicy),1.18,3.4,Yes
+M171,Sides,Fries (Low Sugar),1.65,3.14,Yes
+M172,Appetizer,Hummus Platter (Large),2.36,4.1,Yes
+M173,Beverage,Iced Latte (Large),1.32,4.34,Yes
+M174,Appetizer,Edamame (XL),2.67,4.47,Yes
+M175,Entrée,Lamb Kebab (Large),9.49,15.12,Yes
+M176,Beverage,Americano (Vegan),1.06,3.68,Yes
+M177,Beverage,Americano (Spicy),1.36,3.29,Yes
+M178,Dessert,Apple Pie (Large),3.73,6.35,Yes
+M179,Entrée,Chicken Alfredo (Gluten-Free),7.62,14.83,Yes
+M180,Appetizer,Chicken Wings (XL),2.67,4.69,Yes
+M181,Appetizer,Spring Rolls (Low Sugar),1.56,3.66,Yes
+M182,Entrée,Lamb Kebab (Low Sugar),4.97,15.73,Yes
+M183,Appetizer,Chicken Wings (Gluten-Free),1.6,3.73,Yes
+M184,Appetizer,Chicken Wings (Low Sugar),2.95,5.05,Yes
+M185,Sides,Coleslaw (Spicy),1.51,4.0,Yes
+M186,Dessert,Chocolate Lava Cake (XL),2.78,4.26,Yes
+M187,Entrée,Beef Ramen (Gluten-Free),5.32,11.43,Yes
+M188,Sides,Sweet Potato Fries (Large),1.18,3.08,Yes
+M189,Appetizer,Quesadilla (Large),2.63,4.6,Yes
+M190,Sides,Cornbread (XL),1.73,3.01,Yes
+M191,Sides,Sweet Potato Fries (XL),1.43,4.24,Yes
+M192,Entrée,BBQ Burger (Large),4.64,12.17,Yes
+M193,Entrée,Shrimp Tacos (Gluten-Free),5.02,17.34,Yes
+M194,Sides,Steamed Veggies (Gluten-Free),1.25,3.37,No
+M195,Entrée,Grilled Salmon (Low Sugar),8.29,18.48,Yes
+M196,Beverage,Americano (XL),1.4,4.17,Yes
+M197,Appetizer,Fried Calamari (Large),1.5,3.41,Yes
+M198,Appetizer,Fried Calamari (Large),2.49,4.52,Yes
+M199,Sides,Sweet Potato Fries (Vegan),1.49,4.3,Yes
+M200,Sides,Cornbread (Gluten-Free),0.87,3.17,Yes
+M201,Entrée,Steak Frites (Vegan),5.09,13.51,Yes
+M202,Entrée,Vegan Bowl (Gluten-Free),8.11,15.36,Yes
+M203,Entrée,Lamb Kebab (XL),5.12,11.62,Yes
+M204,Appetizer,Chicken Wings (XL),2.15,5.51,Yes
+M205,Entrée,Margherita Pizza (Gluten-Free),7.21,15.07,Yes
+M206,Entrée,Shrimp Tacos (Large),4.86,15.67,Yes
+M207,Entrée,Beef Ramen (XL),4.6,14.8,Yes
+M208,Sides,Sweet Potato Fries (Low Sugar),1.38,3.53,Yes
+M209,Dessert,Mango Sticky Rice (Low Sugar),1.55,4.6,Yes
+M210,Appetizer,Quesadilla (Gluten-Free),2.17,4.31,Yes
+M211,Appetizer,Spring Rolls (XL),2.31,5.38,Yes
+M212,Appetizer,Hummus Platter (Gluten-Free),2.08,4.39,Yes
+M213,Sides,Mashed Potatoes (Gluten-Free),1.17,3.19,Yes
+M214,Appetizer,Fried Calamari (Gluten-Free),2.7,5.29,Yes
+M215,Entrée,Shrimp Tacos (Large),3.88,14.2,Yes
+M216,Entrée,Grilled Salmon (Large),8.26,20.14,Yes
+M217,Sides,Cornbread (Low Sugar),1.21,2.92,Yes
+M218,Entrée,Beef Ramen (Vegan),4.95,15.45,Yes
+M219,Entrée,Steak Frites (Gluten-Free),4.26,14.34,Yes
+M220,Beverage,Craft Soda (Large),1.43,4.16,Yes
