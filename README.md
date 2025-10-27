@@ -53,6 +53,11 @@ All visuals are compiled into a single **Excel dashboard** for quick insights.
 
 ---
 
+### 🖼️ Final Dashboard Preview
+![Dashboard Screenshot](./RestaurantDashboardPreview.png)
+
+---
+
 ### 🏁 Result
 A fully interactive **Restaurant Performance Dashboard** that provides:
 - Branch-level sales and profitability insights  
